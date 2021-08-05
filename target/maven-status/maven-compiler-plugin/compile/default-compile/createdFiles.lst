@@ -1,0 +1,11 @@
+com/posidex/service/InvocationDemo.class
+com/posidex/service/PostServiceMainMethod.class
+com/posidex/service/PostService.class
+com/posidex/model/ServiceResponseType.class
+com/posidex/service/PersonService.class
+com/posidex/model/OutPutData.class
+com/posidex/service/Resource.class
+com/posidex/model/SendOutputResponseType.class
+com/posidex/model/Person.class
+com/posidex/main/ClientCall.class
+com/posidex/response/ReturnResponse.class
